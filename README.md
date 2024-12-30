@@ -4,7 +4,7 @@
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsssyyysss109&edge_flat=false&title=hits)
 
 
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">🌹 t e c h 🌹</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 </p>
