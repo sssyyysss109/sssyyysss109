@@ -5,3 +5,6 @@
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
+
+### 🚌 Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sssyyysss109&layout=)
