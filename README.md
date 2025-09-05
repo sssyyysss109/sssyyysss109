@@ -1,7 +1,9 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Sunyu's%20Github&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsssyyysss109&edge_flat=false&title=hits)
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sssyyysss109&title=Profile%20Hits&edge_flat=false"/>
+</p>
 
 
 <h3 align="center">🌹 T e c h 🌹</h3>
@@ -15,6 +17,11 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
+<!-- 📊 Most Used Languages -->
+<h3 align="center">🔥 Language Stack 🔥</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssyyysss109&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF5733&text_color=FFFFFF" />
+</p>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://www.instagram.com/sunnyxx_u/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sunnyxx_u/"/></a>&nbsp
