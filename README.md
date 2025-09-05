@@ -20,7 +20,7 @@
 <!-- 📊 Most Used Languages -->
 <h3 align="center">🔥 Language Stack 🔥</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssyyysss109&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF5733&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssyyysss109&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 </p>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
