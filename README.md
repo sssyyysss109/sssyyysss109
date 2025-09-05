@@ -2,7 +2,13 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Sunyu's%20Github&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 
-![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sssyyysss109)
+<!-- Profile Hits -->
+<p align="center">
+  <img
+    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsssyyysss109&title=Profile%20Hits&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&edge_flat=false"
+    alt="Profile Hits"
+  />
+</p>
 
 
 
